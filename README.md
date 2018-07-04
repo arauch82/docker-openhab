@@ -1,2 +1,2 @@
-# docker-openhab
-docker image for openhab with slight adaptions
+# openhab
+openhab with slight modifications (e.g. openssh-client, etc.)
