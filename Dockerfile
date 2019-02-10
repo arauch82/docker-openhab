@@ -1,4 +1,4 @@
-FROM openhab/openhab:2.4.0-snapshot-amd64-debian
+FROM openhab/openhab:latest
 MAINTAINER Andreas Rauch <mail@andreas-rauch.de>
 
 # install openssh client
